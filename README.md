@@ -35,5 +35,5 @@
 - Dashboard Interaction <a href="https://github.com/satyamkumar089/Uber_Rides_Analysis/blob/main/complete_uber_project.pbix">View Dashboard</a>
 
 ##Dashboard shots
-https://github.com/satyamkumar089/Uber_Rides_Analysis/blob/main/uber.pdf
+
 
