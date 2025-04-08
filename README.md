@@ -33,4 +33,5 @@
 9.	Driver Ratings Distribution
 10.	Customer vs. Driver Ratings
 
+- Dashboard Interaction <a href="https://github.com/satyamkumar089/Uber_Rides_Analysis/blob/main/complete_uber_project.pbix">View Dashboard</a>
 
