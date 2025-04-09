@@ -37,15 +37,6 @@
 ## Dashboard shots
 ![screenshot_uber.png](https://github.com/satyamkumar089/Uber_Rides_Analysis/blob/main/screenshot_uber.png)
 
-## Project Insights
-
--Auto and Mini have slightly higher revenue and distance, possibly due to high frequency usage.
-
--	Prime Sedan has the highest average booking value, indicating a premium segment.
-
--eBike and Bike cover longer distances on average, which is impressive for light vehicles.
-
--Ratings are fairly balanced across all types, showing a uniform service quality.
 
 
 
