@@ -51,23 +51,23 @@
 
 ## Project Insights
 
--Auto and Mini have slightly higher revenue and distance, possibly due to high frequency usage.
+- Auto and Mini have slightly higher revenue and distance, possibly due to high frequency usage.
 
 -	Prime Sedan has the highest average booking value, indicating a premium segment.
 
--eBike and Bike cover longer distances on average, which is impressive for light vehicles.
+- eBike and Bike cover longer distances on average, which is impressive for light vehicles.
 
--Ratings are fairly balanced across all types, showing a uniform service quality.
+- Ratings are fairly balanced across all types, showing a uniform service quality.
 
 ## Final Conclusion
 
--Business is running efficiently with 80% success rate in bookings.
+-  Business is running efficiently with 80% success rate in bookings.
 
--Revenue and engagement are healthy across all vehicle types, especially for Auto, Mini, and Bikes.
+- Revenue and engagement are healthy across all vehicle types, especially for Auto, Mini, and Bikes.
 
--There’s room to reduce cancellations and incomplete rides, possibly by addressing top reasons behind them.
+- There’s room to reduce cancellations and incomplete rides, possibly by addressing top reasons behind them.
 
--High ratings reflect a positive user experience, but deeper analysis into low-rated bookings could improve service further.
+- High ratings reflect a positive user experience, but deeper analysis into low-rated bookings could improve service further.
 
 
 
