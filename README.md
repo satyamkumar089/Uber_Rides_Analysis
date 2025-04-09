@@ -1,4 +1,4 @@
-# Uber_Rides_Data_Analysis (Interactive Dashboard Creating Using Power BI)
+# Uber_Rides_Data_Analysis (Interactive Dashboard Creating Using Power BI and SQL)
 ## Project Objectives
 - Understand Ride Pattern
 - Evaluate Service Efficiency
